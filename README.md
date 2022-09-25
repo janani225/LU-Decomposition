@@ -16,6 +16,7 @@ To write a program to find the LU Decomposition of a matrix.
 6.End the program.
 
 ## Program:
+```
 (i) To find the L and U matrix
 
 Program to find L and U matrix using LU decomposition.
@@ -29,7 +30,7 @@ a=eval(input())
 P,L,U=lu(a) 
 print(L)
 print(U)
-
+```
 
 ##  OUTPUT
 ![Screenshot from 2022-09-24 13-35-38](https://user-images.githubusercontent.com/113497680/192087625-46068974-7953-4d4a-b93e-0f99cb106113.png)
@@ -54,6 +55,7 @@ To write a program to solve a matrix using LU Decomposition.
 7.End the program.
 
 ##Program
+```
 (ii) To find the LU Decomposition of a matrix
 
 Program to solve a matrix using LU decomposition.
@@ -68,15 +70,10 @@ B=eval(input())
 lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),B)
 print(x)
-
-
+```
 
 ## Output:
 ![Screenshot from 2022-09-24 13-56-21-1](https://user-images.githubusercontent.com/113497680/192088423-7036ad07-00dc-40e0-9af2-ad84a8f32448.png)
 
 ##Result:
-Thus the program to solve the matrix using LU Decomposition is written and verified using python programming
-
-
-## Result:
-Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
+Thus the program to solve the matrix using LU Decomposition is written and verified using python programming.
