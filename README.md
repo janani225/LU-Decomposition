@@ -21,9 +21,9 @@ To write a program to find the LU Decomposition of a matrix.
 6.End the program.
 
 ## Program:
-```
-(i) To find the L and U matrix
 
+(i) To find the L and U matrix
+```
 Program to find L and U matrix using LU decomposition.
 Developed by: V.S.JANANI
 RegisterNumber: 22003192 
@@ -66,10 +66,10 @@ To write a program to solve a matrix using LU Decomposition.
 7.End the program.
 
 
-##Program
-```
-(ii) To find the LU Decomposition of a matrix
+## Program
 
+(ii) To find the LU Decomposition of a matrix
+```
 Program to solve a matrix using LU decomposition.
 Developed by: V.S.JANANI
 RegisterNumber: 22003192
