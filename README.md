@@ -43,10 +43,10 @@ print(U)
 ##Result:
 Thus the program to find the LU decomposition of a matrix is written and verfied using python programming.
 
-##AIM:
+## AIM:
 To write a program to solve a matrix using LU Decomposition.
 
-##Equipments Required:
+## Equipments Required:
 1.Hardware-PCs
 2.Anaconda-Python 3.7 Installation / Moodle-Code Runner
 
