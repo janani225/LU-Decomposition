@@ -7,7 +7,7 @@ To write a program to find the LU Decomposition of a matrix.
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+## Algorithm:
 1.Import the numpy module to use the built-in functions for calculation.
 
 2.From scipy.linalg module import the lu funtion.
@@ -43,15 +43,8 @@ print(U)
 ##  Result:
 Thus the program to find the LU decomposition of a matrix is written and verfied using python programming.
 
-## AIM:
-To write a program to solve a matrix using LU Decomposition.
 
-## Equipments Required:
-1.Hardware-PCs
-
-2.Anaconda-Python 3.7 Installation / Moodle-Code Runner
-
-## Algorithm
+## Algorithm:
 1.Import the numpy module to use the built-in functions for calculation.
 
 2.From scipy.linalg module import lu_factor and lu_solve functions for calculations.
