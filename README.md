@@ -9,7 +9,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm:
 
-# 1.Program To find the L and U matrix using LU decomposition.
+ 1.Program To find the L and U matrix using LU decomposition.
 
 
   1.Import the numpy module to use the built-in functions for calculation.
@@ -25,7 +25,7 @@ To write a program to find the LU Decomposition of a matrix.
   6.End the program.
   
   
-# 2.Program to slove using LU decomposition.
+ 2.Program to slove using LU decomposition.
   
   
   1.Import the numpy module to use the built-in functions for calculation.
